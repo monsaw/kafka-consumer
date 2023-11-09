@@ -10,4 +10,6 @@ public class KafkaConsumerApplication {
         SpringApplication.run(KafkaConsumerApplication.class, args);
     }
 dhhfiujh
+
+    nonsense
 }
