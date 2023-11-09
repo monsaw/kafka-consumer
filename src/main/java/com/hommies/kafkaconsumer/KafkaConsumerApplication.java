@@ -11,5 +11,5 @@ public class KafkaConsumerApplication {
     }
 dhhfiujh
 
-    nonsense your business
+    nonsense your business ...
 }
